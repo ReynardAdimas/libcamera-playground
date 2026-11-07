@@ -1,11 +1,11 @@
 # Get to know libcamera-rs
 
 - Milestone 1 - Camera Discovery
-  - [ ] Camera detected
-  - [ ] Choosing camera by id
-  - [ ] Show properties and controls
-  - [ ] Show available stream format
-  - [ ] Understanding CameraManager lifecycle
+  - [x] Camera detected
+  - [x] Choosing camera by id
+  - [x] Show properties and controls
+  - [x] Show available stream format
+  - [x] Understanding CameraManager lifecycle
 
 - Milestone 2 - Camera Configuration
   - [ ] Able to set resolution
