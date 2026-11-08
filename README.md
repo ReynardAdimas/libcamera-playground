@@ -15,11 +15,11 @@
   - [x] Understanding relation between Camera and StreamConfiguration
 
 - Milestone 3 - Frame Capture
-  - [ ] Capture frame
-  - [ ] Able to continuous capture
-  - [ ] Understanding Camera Request
-  - [ ] Understanding Request completion
-  - [ ] Able to count FPS capture
+  - [x] Capture frame
+  - [x] Able to continuous capture
+  - [x] Understanding Camera Request
+  - [x] Understanding Request completion
+  - [x] Able to count FPS capture
 
 - Milestone 4 - FrameBuffer Management
   - [ ] Understanding mmap
