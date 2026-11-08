@@ -8,11 +8,11 @@
   - [x] Understanding CameraManager lifecycle
 
 - Milestone 2 - Camera Configuration
-  - [ ] Able to set resolution
-  - [ ] Able to set pixel format
-  - [ ] Understanding StreamRole
-  - [ ] Understanding validation config process
-  - [ ] Understanding relation between Camera and StreamConfiguration
+  - [x] Able to set resolution
+  - [x] Able to set pixel format
+  - [x] Understanding StreamRole
+  - [x] Understanding validation config process
+  - [x] Understanding relation between Camera and StreamConfiguration
 
 - Milestone 3 - Frame Capture
   - [ ] Capture frame
