@@ -22,12 +22,12 @@
   - [x] Able to count FPS capture
 
 - Milestone 4 - FrameBuffer Management
-  - [ ] Understanding mmap
-  - [ ] Understanding ownership and lifetime buffer
-  - [ ] Accessing raw frame
-  - [ ] Understanding plane and stride
-  - [ ] Understanding buffer recycling
-  - [ ] What is use-after-free / data corrupt
+  - [x] Understanding mmap
+  - [x] Understanding ownership and lifetime buffer
+  - [x] Accessing raw frame
+  - [x] Understanding plane and stride
+  - [x] Understanding buffer recycling
+  - [x] What is use-after-free / data corrupt
 
 - Milestone 5 - Video Streaming
   - [ ] Raw frame into Gstreamer
